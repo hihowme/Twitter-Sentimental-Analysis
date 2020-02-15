@@ -1,0 +1,7 @@
+[
+  "test_.py::TestClass::()::test_clean",
+  "test_.py::TestClass::()::test_share",
+  "test_.py::TestClass::()::test_positive_sentiment",
+  "test_.py::TestClass::()::test_negative_sentiment",
+  "test_.py::TestClass::()::test_neutral_sentiment"
+]
