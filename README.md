@@ -35,7 +35,7 @@ $ git clone: https://github.com/mpcs-python/autumn-2019-project-hihowme.git
 ```
 Then navigate to the repo by:
 ```
-$ cd autumn-2019-project-hihowme
+$ cd Twitter-Sentimental-Analysis
 ```
 Run the 2 commands below in the terminal to install all the dependencies:
 ```
@@ -103,9 +103,9 @@ Detailed Report:
 
 ```
 The Figures are showed below:\
-![NLTK Example](https://github.com/mpcs-python/autumn-2019-project-hihowme/blob/master/figures/result_1_nltk.png)\
+![NLTK Example](https://github.com/hihowme/Twitter-Sentimental-Analysis/blob/master/figures/result_1_nltk.png)\
 \
-![](https://github.com/mpcs-python/autumn-2019-project-hihowme/blob/master/figures/result_2_training.png)
+![](https://github.com/hihowme/Twitter-Sentimental-Analysis/blob/master/figures/result_2_training.png)
 
 **Training**
 
