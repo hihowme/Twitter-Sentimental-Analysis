@@ -109,7 +109,7 @@ The Figures are showed below:\
 
 **Training**
 
-The details are shown in the [training_process.ipynb](https://github.com/mpcs-python/autumn-2019-project-hihowme/blob/master/training_process.ipynb), one could change the
+The details are shown in the [training_process.ipynb](https://github.com/hihowme/Twitter-Sentimental-Analysis/blob/master/training_process.ipynb), one could change the
 data input by rename the csvfile to `train.csv` and copy that into the folder `dataset`.
 
 However, one should notice that the `training.py` is not reusable because the training corpus
@@ -125,7 +125,7 @@ The overall accuracy score is 0.728.
 
 ## Limitation & Known Issues
 
-1.  The majority of this work is based on the Twitter API Cursor, which makes it hard to do the test job. However, one could always refers to the test over [here](https://github.com/mpcs-python/autumn-2019-project-hihowme/blob/master/training_process.ipynb)
+1.  The majority of this work is based on the Twitter API Cursor, which makes it hard to do the test job. However, one could always refers to the test over [here](http://docs.tweepy.org/en/latest/running_tests.html)
 2.  Due to the limitation of the Twitter developer API, the maximum number of tweets to analyze is 800. If needed, one could pay a monthly fee to get a premium Twitter API for bigger dataset`.
 3.  We include both NLTK analysis and the training method to get a comparison. The NLTK 
 sentiment vader should in general be precise, if our model predicts a model that is far
